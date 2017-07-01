@@ -1,4 +1,6 @@
 # Mobility Toolbox
+
+[![Join the chat at https://gitter.im/mobilitytoolbox/Lobby](https://badges.gitter.im/mobilitytoolbox/Lobby.svg)](https://gitter.im/mobilitytoolbox/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Matlab toolbox for mobility communication research
 
 ### Mobility Toolbox is free Open Source tool for researchers to easily generate and simulate mobility data, given configuration. 
